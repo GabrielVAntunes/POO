@@ -89,7 +89,8 @@ public class Tp1_5II {
 
                 break;
 
-            case 7:
+                // Calcula bem o fatorial, mas o tempo em milisegundos dá 0, não sei fazer
+            case 7: 
                 long tempo;
 
                 tempo = Ex.tempoGasto();
