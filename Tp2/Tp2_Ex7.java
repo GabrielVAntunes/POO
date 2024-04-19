@@ -11,9 +11,6 @@ public class Tp2_Ex7 {
 
         Ex7Mets.geraChave();
 
-        Ex7Mets.leChave(chave);
-        System.out.println("");
-
         System.out.println("Faça a sua aposta: ");
         System.out.println("Introduza 5 números de 1-50");
         for(int i = 0; i < 5; i++){
