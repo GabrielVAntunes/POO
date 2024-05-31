@@ -1,0 +1,9 @@
+Este trabalho obteve avaliação de 13 valores
+
+É de notar que foi enviado ainda em desenvolvimento por isso tem alguns erros e algumas redundâncias.
+
+!!! 
+Caso se estejam a basear neste projeto para fazer o vosso, na defesa do projeto fomos chamos à atenção que:
+    - Era suposto os desportos praticados serem classes e não instâncias
+    - Não devíamos ter usado um Enum na classe "Atividades" para definir o tipo de atividade, já que criamos 4 subclasses com esse mesmo efeito (contrariando assim o paradigma POO)
+!!!
